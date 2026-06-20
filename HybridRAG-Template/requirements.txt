@@ -1,0 +1,16 @@
+langchain>=0.1.0
+langchain-community>=0.0.10
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.4
+rank-bm25>=0.2.2
+jieba>=0.42.1
+openai>=1.0.0
+gradio>=4.0.0
+numpy>=1.21.0
+unstructured>=0.10.0
+unstructured[local-inference]
+python-docx>=0.8.11
+PyPDF2>=3.0.0
+pypdf>=3.0.0
+pdfminer.six>=20221105
+python-dotenv>=1.0.0
